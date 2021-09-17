@@ -1,0 +1,44 @@
+{
+  "tests": [
+    {
+      "name": "Task1.py",
+      "setup": "",
+      "run": "python3 task1.py",
+      "input": "100\r\n2.5\r\n30",
+      "output": "You earned $0.20 interest.",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Task2.py",
+      "setup": "",
+      "run": "python3 task2.py",
+      "input": "25000000\r\n2.1\r\n12",
+      "output": "There will be 25017087 people after 12 days",
+      "comparison": "included",
+      "timeout": 10,
+      "points": 2
+    },
+    {
+      "name": "Task3.py",
+      "setup": "",
+      "run": "python3 task3.py",
+      "input": "11.99\r\n14.76\r\n12.99\r\n15.98\r\n7.99",
+      "output": "Your subtotal is $63.71 and your taxes total $7.65 for a total of $71.36",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    },
+    {
+      "name": "Task4.py",
+      "setup": "",
+      "run": "python3 task4.py",
+      "input": "John\r\npurple\r\nchicken\r\nhappy\r\nnun\r\nOhio\r\nclumsy\r\ncrazy\r\ncookie\r\nworm\r\n",
+      "output": "Today we picked apple from John's Orchard. I had no idea there were so many different varieties of apples. I ate purple apples straight off the tree that tasted like chicken. Then there was a happy apple that looked like a nun.  When our bag was full, we went on a free hay ride to Ohio and back. It ended at a hay pile where we got to clumsy crazy. I can hardly wait to get home and cook with the apples. We are going to make apple cookie and worm pies!\r\n",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 2
+    }
+  ]
+}
