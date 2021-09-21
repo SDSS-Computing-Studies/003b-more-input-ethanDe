@@ -20,4 +20,4 @@ eighth = str(input("Insert adverb: ")).strip()
 ninth = str(input("Insert food: ")).strip()
 tenth = str(input("Insert thing: ")).strip()
 
-print(f"Today we picked apple from {first}'s Orchard. I had no idea there were so many different varieties of apples. I ate {second} apples straight off the tree that tasted like {third}. Then there was a {fourth} apple that looked like a {fifth}. When our bag was full, we went on a free hay ride to {sixth} and back. It ended at a hay pile where we got to {seventh} {eighth}. I can hardly wait to get home and cook with the apples. We are going to make apple {ninth} and {tenth} pies!")
+print(f"Today we picked apples from {first}'s Orchard. I had no idea there were so many different varieties of apples. I ate {second} apples straight off the tree that tasted like {third}. Then there was a {fourth} apple that looked like a {fifth}. When our bag was full, we went on a free hay ride to {sixth} and back. It ended at a hay pile where we got to {seventh} {eighth}. I can hardly wait to get home and cook with the apples. We are going to make apple {ninth} and {tenth} pies!")
