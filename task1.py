@@ -17,7 +17,7 @@ You earned $0.20 interest.
 
 import math
 
-principal = float(input("Enter your prinicpal: "))
+principal = float(input("Enter your principal: "))
 rate = float(input("Enter your interest rate: "))
 days = float(input("Enter days this month: "))
 interest = (principal * rate * days / 365) / 100
@@ -25,4 +25,4 @@ tempX = interest*100
 tempX = math.floor(tempX)
 interest = tempX/100
 interest = round(interest, 2)
-print(f"You earned ${interest} interest")
+print(f"You earned ${interest} interest.")
