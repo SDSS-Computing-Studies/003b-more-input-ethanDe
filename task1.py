@@ -25,5 +25,4 @@ tempX = interest*100
 tempX = math.floor(tempX)
 interest = tempX/100
 interest = round(interest, 2)
-interest = format(interest, '.2f')
 print(f"You earned ${interest} interest")
